@@ -1,5 +1,5 @@
 # HackPrinceton 18
-Our project for HackPrinceton 2018.
+Our project for HackPrinceton 2018. Check out the video for the project here: https://devpost.com/software/colour-your-texts
 
 ## Inspiration
 We all use messaging apps like Facebook Messenger, WhatsApp, VChat, etc. While some of us like to stay on the main topic of conversation, we often derail from the topic like one of our old professors in the classroom. We also like to juggle multiple conversations at the same time to show off our stamina to talk. With the introduction of new topics into text conversations, it becomes hard to keep track of them. This is where our app comes in. 
